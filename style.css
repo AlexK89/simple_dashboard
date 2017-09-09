@@ -24,7 +24,6 @@
 	color: #fff;
 	margin: 0 20px;
 }
-
 .main_content_header {
 	padding: 20px 15px;
 	margin: 10px 0;
@@ -92,8 +91,8 @@
 	overflow: scroll;
 	padding-right: 20px;
 }
-/*Scrool_section_left_block*/
 
+/*Scrool_section_left_block*/
 .main_content_categories_cat_names p {
 	margin: 15px;
 	padding: 15px 10px;
@@ -146,14 +145,6 @@
 	border-radius: 5px;
 	border: 1px solid #A2A0A3;
 }
-
-
-
-
-
-
-
-
 
 /*Footer_section*/
 .submition {
