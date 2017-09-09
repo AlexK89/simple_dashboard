@@ -19,16 +19,19 @@
 }
 .logo p {
 	margin: 0;
+	line-height: 60px;
 }
 .inline {
 	display: inline-block;
 }
 .navigation_elements {
 	list-style: none;
+	margin: 0;
 }
 .navigation_elements a {
 	color: #fff;
 	margin: 0 20px;
+	line-height: 60px;
 }
 .main_content_header {
 	padding: 20px 15px;
