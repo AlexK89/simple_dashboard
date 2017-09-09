@@ -53,16 +53,25 @@
 .main_content_form input:nth-child(2) {
 	width: 210px;
 	padding: 7px 10px;
+	background: #fff;
+	border-radius: 5px;
+	border: 1px solid #A2A0A3;
 	float: right;
 }
 .main_content_save {
 	float: left;
+}
+.main_content_save input:first-child {
+	background-color: #D0CDD3;
 }
 .main_content_changes {
 	float: right;
 }
 .main_content_buttons input {
 	padding: 7px 10px;
+	background: #fff;
+	border-radius: 5px;
+	border: 1px solid #A2A0A3;
 }
 
 /*Scrool_section*/
